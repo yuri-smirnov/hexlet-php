@@ -1,0 +1,12 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Yuri S.",
+            "email": "smirnov.rabota2602@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT"
+}
